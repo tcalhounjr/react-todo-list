@@ -18,6 +18,6 @@ ToDoItem.propTypes = {
 
 const itemStyle = {
     backgroundColor: '#f4f4f4'
-}
+} 
 
 export default ToDoItem
